@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="useful-referencencs">Useful Referencencs</h1>
+<h1 id="useful-references">Useful References</h1>
 <blockquote>
 <h2 id="for-beautifying-documentation">For beautifying Documentation</h2>
 </blockquote>
