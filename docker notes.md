@@ -35,7 +35,7 @@ docker is client-server architecture.</em></p>
 NOTE:<br>
 <em>Docker Image is a file with many layers<br>
 Docker Containers are runtime instances of docker image<br>
-Containers are writable while image is only readable</em><br>
+Containers are writable while Image is only readable</em><br>
 <a href="https://pythonise.com/feed/flask/building-a-flask-app-with-docker-compose">Refer here to build Docker Compose file with Simple flask web application and nginx image to expose one port to list to another</a></p>
 </blockquote>
 <blockquote>
