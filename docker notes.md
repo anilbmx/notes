@@ -27,6 +27,8 @@ docker is client-server architecture.</em></p>
 <li>A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.</li>
 <li>A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.</li>
 </ul>
+<h2 id="difference-between-vms-and-docker">Difference between VMs and Docker</h2>
+<p><a href="https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/">Refer This…</a></p>
 <blockquote>
 <p>Advantage of using docker:<br>
 <em>Containers take a different approach: by leveraging the low-level mechanics of the host operating system, containers provide most of the isolation of virtual machines at a fraction of the computing power.</em><br>
