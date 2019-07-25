@@ -45,7 +45,7 @@ Docker Containers are runtime instances of docker image</em><br>
 <em>The Docker daemon (dockerd) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.</em></li>
 </ol>
 <blockquote>
-<p>Main Tasks</p>
+<p>Main Tasks of docker engine/server</p>
 </blockquote>
 <ul>
 <li>Run as a Daemon</li>
@@ -65,6 +65,9 @@ Six REST API for remote management</li>
 <ul>
 <li>communicates with the docker server using the REST API.</li>
 </ul>
+<blockquote>
+<p>Example: Client machine</p>
+</blockquote>
 <blockquote>
 <p>NOTE:</p>
 </blockquote>
